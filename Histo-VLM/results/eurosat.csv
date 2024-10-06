@@ -1,0 +1,9 @@
+acc,std,method,num_shots,tasks
+57.7321,0.4322,LinearProbe_P2,16,10
+82.5346,0.1604,LinearProbe_P2,16,10
+82.5346,0.1604,LinearProbe_P2,16,10
+82.5346,0.1604,LinearProbe_P2,16,10
+77.0938,0.4726,LinearProbe_P2,8,10
+72.4691,0.3503,LinearProbe_P2,4,10
+58.4333,1.0032,LinearProbe_P2,2,10
+52.9432,1.7387,LinearProbe_P2,1,10

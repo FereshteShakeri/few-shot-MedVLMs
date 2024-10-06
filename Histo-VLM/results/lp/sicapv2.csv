@@ -1,0 +1,4 @@
+acc,std,method,num_shots,tasks
+0.3821,0.0549,LinearProbe,1,5
+0.5396,0.043,LinearProbe,2,5
+0.5492,0.0595,LinearProbe,4,5

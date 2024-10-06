@@ -1,0 +1,9 @@
+acc,std,method,batch_size,num_shots,tasks
+44.023,0.0,TIPAdapter-F,256,1,1
+85.896,0.0,ClipAdapter,32,16,1
+76.818,0.0,TIPAdapter-F,256,16,1
+92.134,0.0,LinearProbe_P2,32,16,1
+92.134,0.0,LinearProbe_P2,32,16,1
+70.107,0.0,ClipAdapter,32,16,1
+76.818,0.0,TIPAdapter-F,256,16,1
+0.9285,0.0,LinearProbe,32,16,1
